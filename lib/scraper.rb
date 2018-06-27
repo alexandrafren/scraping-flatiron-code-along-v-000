@@ -33,4 +33,4 @@ end
 
 end
 
-Scraper.new.prtnt_courses
+Scraper.new.print_courses

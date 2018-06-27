@@ -32,3 +32,5 @@ end
   end
 
 end
+
+Scraper.new.prtnt_courses
